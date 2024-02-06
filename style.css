@@ -163,3 +163,22 @@ body{
     font-weight: 100;
     margin-bottom: 2%;
 }
+/* simboli */
+
+.check{
+    color: green;
+    width: 10px;
+    height: 10px;
+    border: 1px solid green;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.cross{
+    color: red;
+    width: 10px;
+    height: 10px;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin-right: 10px;
+}
