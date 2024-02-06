@@ -11,6 +11,7 @@ header{
 .title{
     display: inline-block;
     font-weight: 1000;
+    margin-left: 30px;
 }
 /* body */
 
@@ -167,18 +168,24 @@ body{
 
 .check{
     color: green;
-    width: 10px;
-    height: 10px;
+    width: 20px;
+    height: 20px;
     border: 1px solid green;
     border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
     margin-right: 10px;
 }
 
 .cross{
     color: red;
-    width: 10px;
-    height: 10px;
+    width: 20px;
+    height: 20px;
     border: 1px solid red;
     border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
     margin-right: 10px;
 }
